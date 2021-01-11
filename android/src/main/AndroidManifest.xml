@@ -1,0 +1,8 @@
+<manifest package="io.flutter.plugins.webviewflutter"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <activity
+            android:name=".newActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+    </application>
+</manifest>
